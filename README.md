@@ -6,17 +6,17 @@ Dataset
 
 The dataset was acquired from from kaggle, it has 14 columns and 2500 rows that consist of
 
-ID
-Order ID
-Ship Date
-Shipping Method
-Category
-Sub-Category
-Country
-Region
-State
-Postal Code
-Product Name
-Customer
-Quantity
-Shipping cost
+ID,
+Order ID,
+Ship Date,
+Shipping Method,
+Category,
+Sub-Category,
+Country,
+Region,
+State,
+Postal Code,
+Product Name,
+Customer,
+Quantity,
+Shipping cost,

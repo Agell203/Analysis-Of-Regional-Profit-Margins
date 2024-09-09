@@ -1,4 +1,4 @@
-[Sales.xlsx](https://github.com/user-attachments/files/16924424/Sales.xlsx)
+
 Objective 
 
 to identify underperforming regions and product categories. The goal is to increase the sales of high-margin products and strategically reduce or eliminate low-margin products, with the aim of improving overall profitability.
@@ -25,3 +25,4 @@ Shipping cost,
 
 
 two new columns were created for the analysis "Profit Margin" & "Profit per unit"
+[Sales.xlsx](https://github.com/user-attachments/files/16924424/Sales.xlsx)
